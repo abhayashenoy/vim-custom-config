@@ -1,0 +1,7 @@
+" use a big, pretty font
+  set guifont=Source\ Code\ Pro:h12
+
+" initial window size
+  set lines=60 columns=120
+
+colorscheme zenburn
