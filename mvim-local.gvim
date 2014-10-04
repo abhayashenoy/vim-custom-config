@@ -5,3 +5,5 @@
   set lines=60 columns=120
 
 colorscheme zenburn
+set cursorline
+nmap <C-p> <leader>t
